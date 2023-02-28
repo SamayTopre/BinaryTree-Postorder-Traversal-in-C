@@ -40,7 +40,7 @@ void postorder(struct node *root)
         printf("%d ", root->data);
     }
 }
-#include <stdio.h>
+
 int main()
 {
 
